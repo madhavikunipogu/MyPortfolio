@@ -73,8 +73,8 @@ education = [
 
   portfolio: PortfolioItem[] = [
     { image: 'assets/p1.png', title: 'HRM', subtitle: 'Web Development', link: '#' },
-    { image: 'assets/images/travel-app.png', title: 'Asri Fashions', subtitle: 'UX Research / Web Design', link: '#' },
-    { image: 'assets/images/personal-page.png', title: 'Personal Page', subtitle: 'Web Design', link: '#' },
+    { image: 'assets/p2.png', title: 'Asri Fashions', subtitle: 'UX Research / Web Design', link: '#' },
+    { image: 'assets/p3.png', title: 'Suresh Uppada Sarees', subtitle: 'Web Development', link: '#' },
   ];
 
 
